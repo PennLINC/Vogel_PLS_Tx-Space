@@ -116,10 +116,10 @@ def bootstrap_features(clf, fit_model, X, y, n_iterations=500, check = 100, on =
     bs_ratio_y = pandas.DataFrame(index = range(orig.n_components), 
                                 columns = range(n_feats_y))
 
-    prng = RandomState(random_state)
+    prng = np.random.RandomState(random_state)
     # bootstrap
     for i in range(n_iterations):
-        n_ind = prng.random.choice(X.index, len(X.index))
+        n_ind = prng.choice(X.index, len(X.index))
         n_samp = pandas.DataFrame(X.loc[n_ind],copy=True)
         ny = pandas.DataFrame(y.loc[n_ind],copy=True)
         newmod = clf.fit(n_samp,ny)
