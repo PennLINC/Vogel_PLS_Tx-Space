@@ -1,0 +1,520 @@
+,term,cluster
+0,gated channel,112
+1,potassium channel regulator,59
+2,potassium channel,59
+3,neurotransmitter receptor,9
+4,"dna-binding transcription activator , rna polymerase ii-specific",70
+5,dna-binding transcription activator,160
+6,neurotransmitter binding,9
+7,potassium ion transmembrane transporter,163
+8,voltage-gated potassium channel,37
+9,voltage-gated cation channel,125
+10,voltage-gated ion channel,125
+11,voltage-gated channel,112
+12,neurotransmitter receptorinvolved in postsynaptic membrane potential,90
+13,channel regulator,140
+14,channel,31
+15,phosphatidylinositol phospholipase c,49
+16,passive transmembrane transporter,12
+17,ion channel,132
+18,phospholipase c,49
+19,serotonin receptor,26
+20,g protein-coupled serotonin receptor,40
+21,ion channel regulator,132
+22,serotonin binding,26
+23,amine binding,73
+24,benzodiazepine receptor,128
+25,postsynaptic neurotransmitter receptor,90
+26,transmembrane transporter,14
+27,transporter,175
+28,smad binding,73
+29,calmodulin binding,73
+30,amino acid binding,73
+31,gaba-gated chloride ion channel,36
+32,double-stranded dna binding,19
+33,inorganic molecular entity transmembrane transporter,69
+34,outward rectifier potassium channel,36
+35,dna-binding transcription factor,160
+36,sequence-specific double-stranded dna binding,19
+37,g protein-coupled amine receptor,40
+38,ion transmembrane transporter,120
+39,cerebral cortex gabaergic interneuron differentiation,67
+40,cerebral cortex neuron differentiation,67
+41,gabaergic neuron differentiation,166
+42,forebrain development,65
+43,forebrain generationneurons,77
+44,cell fate commitment,10
+45,anterograde trans-synaptic signaling,98
+46,chemical synaptic transmission,142
+47,trans-synaptic signaling,98
+48,neuron differentiation,166
+49,synaptic signaling,98
+50,neurogenesis,103
+51,cerebral cortex gabaergic interneuron migration,67
+52,telencephalon development,127
+53,forebrain neuron differentiation,166
+54,pallium development,55
+55,cell morphogenesis involved in differentiation,122
+56,neuron fate commitment,139
+57,sensory organ development,95
+58,cerebral cortex gabaergic interneuron development,3
+59,interneuron migration,11
+60,modulationchemical synaptic transmission,142
+61,developmental,91
+62,trans-synaptic signaling,98
+63,interneuron migrationthe subpalliumthe cortex,11
+64,generationneurons,77
+65,central nervous system neuron differentiation,67
+66,forebrain neuron fate commitment,139
+67,amacrine cell differentiation,107
+68,cerebral cortex gabaergic interneuron fate commitment,3
+69,neuron development,57
+70,neuron projection development,57
+71,cell morphogenesis,158
+72,neuron projection morphogenesis,147
+73,substrate-independent telencephalic tangential migration,68
+74,substrate-independent telencephalic tangential interneuron migration,68
+75,plasma membrane bounded cell projection morphogenesis,110
+76,cell projection morphogenesis,147
+77,axonogenesis,2
+78,cell morphogenesis involved in neuron differentiation,122
+79,animal organ morphogenesis,2
+80,cell part morphogenesis,158
+81,forebrain cell migration,143
+82,olfactory bulb development,149
+83,cellular responseendogenous stimulus,99
+84,cellular component morphogenesis,85
+85,olfactory lobe development,149
+86,cell development,91
+87,amacrine cell differentiation,107
+88,axon development,65
+89,dentate gyrus development,127
+90,hippocampus development,55
+91,nervous system development,155
+92,cerebral cortex development,3
+93,cell fate determination,51
+94,cell differentiation,107
+95,cellular responsetransforming growth factor beta stimulus,100
+96,responsetransforming growth factor beta,100
+97,plasma membrane bounded cell projection organization,110
+98,brain development,65
+99,central nervous system neuron development,3
+100,potassium ion transmembrane transport,163
+101,forebrain regionalization,143
+102,subpallium development,55
+103,cerebral cortex tangential migration,67
+104,commitmentneuronal cellspecific neuron type in forebrain,1
+105,photoreceptor cell differentiation,8
+106,neurogenesis,103
+107,cell projection organization,177
+108,neurotransmitter receptor transport,9
+109,skin development,65
+110,egg activation,16
+111,cellular responsehistamine,99
+112,dendrite development,127
+113,g protein-coupled serotonin receptor signaling,40
+114,limbic system development,55
+115,telencephalon cell migration,38
+116,head development,91
+117,dendritic spine morphogenesis,2
+118,neuron projection,170
+119,integral componentplasma membrane,121
+120,dendrite,134
+121,dendritic tree,134
+122,intrinsic componentplasma membrane,121
+123,synapse,32
+124,voltage-gated potassium channel complex,37
+125,somatodendritic compartment,176
+126,potassium channel complex,87
+127,postsynaptic membrane,157
+128,ion channel complex,96
+129,postsynapse,32
+130,transmembrane transporter complex,14
+131,schaffer collateral - ca1 synapse,4
+132,integral componentpostsynaptic membrane,173
+133,transporter complex,83
+134,intrinsic componentpostsynaptic membrane,80
+135,cation channel complex,96
+136,synaptic membrane,157
+137,integral componentpostsynaptic specialization membrane,178
+138,glutamatergic synapse,58
+139,integral componentsynaptic membrane,173
+140,intrinsic componentpostsynaptic specialization membrane,178
+141,extracellular matrix,64
+142,external encapsulating structure,111
+143,intrinsic componentsynaptic membrane,80
+144,fibrillar collagen trimer,66
+145,banded collagen fibril,66
+146,plasma membrane protein complex,75
+147,laminin complex,18
+148,distal axon,152
+149,postsynaptic specialization membrane,136
+150,dendrite membrane,7
+151,neuronal system,28
+152,neurotransmitter receptor binding and downstream transmission in thepostsynaptic cell,70
+153,potassium channels,59
+154,cadherin signaling,34
+155,transmission across chemical synapses,4
+156,wnt signaling,34
+157,g-protein signaling through tubby proteins,78
+158,gaba receptor activation,16
+159,neuroactive ligand-receptor interaction,184
+160,neuroactive ligand-receptor interaction,184
+161,schizophrenia,21
+162,tap binding,73
+163,peptide antigen binding,71
+164,"antigen ing and presentationendogenous peptide antigen via mhc class i via er , tap-independent",50
+165,"antigen ing and presentationexogenous peptide antigen via mhc class i, tap-independent",50
+166,antigen ing and presentationendogenous peptide antigen via mhc class i via er,50
+167,mhc protein complex,18
+168,mhc class i protein complex,18
+169,lumenal sideendoplasmic reticulum membrane,131
+170,integral componentlumenal sideendoplasmic reticulum membrane,131
+171,lumenal sidemembrane,7
+172,ergolgi transport vesicle membrane,39
+173,graft-versus-host disease,108
+174,graft-versus-host disease,108
+175,type i diabetes mellitus,79
+176,type i diabetes mellitus,79
+177,crosslinkingcollagen fibrils,66
+178,collagen formation,16
+179,assemblycollagen fibrils and other multimeric structures,19
+180,endosomal/vacuolar,0
+181,activationdna fragmentation factor,35
+182,apoptosis induced dna fragmentation,8
+183,allograft rejection,138
+184,type ii interferon signaling (ifng),43
+185,allograft rejection,138
+186,formationsenescence-associated heterochromatin foci (sahf),52
+187,herpes simplex infection,20
+188,autoimmune thyroid disease,162
+189,autoimmune thyroid disease,162
+190,allograft rejection,138
+191,interferon gamma signaling,43
+192,apoptotic executionphase,53
+193,phagosome,49
+194,"antigen presentation: folding, assembly and peptide loadingclass i mhc",50
+195,viral myocarditis,186
+196,il12-mediated signaling events,94
+197,il12-mediated signaling events,94
+198,polb-dependent long patch base excision repair,1
+199,anchoring fibril formation,8
+200,ras and bradykinin s in covid-19,126
+201,interferon alpha/beta signaling,43
+202,collagen biosynthesis and modifying enzymes,19
+203,dna strand elongation,63
+204,viral myocarditis,186
+205,antigen ing and presentation,180
+206,pseudogout,74
+207,calcium pyrophosphate deposition disease,53
+208,myasthenia gravis,72
+209,"myasthenia gravis, ocular",72
+210,"myasthenia gravis, generalized",72
+211,susceptibilitysevere cutaneous adverse reaction,22
+212,carbamazepine response,109
+213,sarcomatoid carcinomathe lung,23
+214,sacroiliitis,6
+215,neonatal chlamydial conjunctivitis,187
+216,trachoma,0
+217,anterior uveitis,81
+218,"hemorrhagic fever, ebola",29
+219,takayasu arteritis,81
+220,alexithymia,21
+221,abnormalitydental enamel,13
+222,pregnancy complications,25
+223,synovial hypertrophy,21
+224,synovitis,6
+225,chronic kidney disease stage 5,48
+226,addison disease,48
+227,leprosy,74
+228,drug hypersensitivity syndrome,144
+229,hypersensitive syndrome,144
+230,adult pre-b acute lymphoblastic leukemia,84
+231,juvenile rheumatoid arthritis,23
+232,postherpetic neuralgia,44
+233,still's disease with juvenile onset and/or adult onset,52
+234,presumed ocular histoplasmosis syndrome,84
+235,"myeloid/lymphoid neoplasms with eosinophilia and rearrangementpdgfra, pdgfrb, or fgfr1, or with pcm1-jak2",52
+236,multiple sclerosis,5
+237,"multiple sclerosis, acute fulminating",5
+238,metal ion transmembrane transporter,120
+239,p-type calcium transporterinvolved in presynaptic cytosolic calcium ion concentration,70
+240,inorganic cation transmembrane transporter,69
+241,cation transmembrane transporter,120
+242,inorganic molecular entity transmembrane transporter,69
+243,p-type ion transporter,47
+244,parallel fiberpurkinje cell synapse,4
+245,presynaptic membrane,157
+246,excitatory synapse,58
+247,synaptic membrane,157
+248,postsynaptic membrane,157
+249,voltage-gated sodium channel,37
+250,glycosaminoglycan binding,73
+251,chondroitin sulfate proteoglycan binding,78
+252,gated channel,112
+253,voltage-gated ion channel,125
+254,voltage-gated channel,112
+255,neuropeptide binding,71
+256,cell-cell signaling,34
+257,serotonin secretion,169
+258,secretion,116
+259,signal release,133
+260,secretion by cell,172
+261,ion transport,47
+262,serotonin secretion,169
+263,gamma-aminobutyric acid secretion,102
+264,axonemal dynein complex assembly,146
+265,integrin activation,97
+266,nervous system development,155
+267,membrane depolarization during action potential,35
+268,serotonin secretion,169
+269,nervous system development,155
+270,calcium ion-dependent exocytosis,1
+271,gamma-aminobutyric acid secretion,102
+272,secretion,116
+273,sensory organ morphogenesis,2
+274,integrin activation,97
+275,axon extension,15
+276,outer dynein arm assembly,4
+277,responsecorticosterone,82
+278,dichotomous subdivisionterminal units involved in salivary gland branching,52
+279,cilium movement,54
+280,sensory organ development,95
+281,membrane depolarization,185
+282,sensory perceptionpain,20
+283,heart development,91
+284,extracellular matrix organization,64
+285,extracellular structure organization,64
+286,external encapsulating structure organization,111
+287,behavioral responsepain,188
+288,gamma-aminobutyric acid transport,135
+289,cellular responsemetal ion,41
+290,d-aspartate import across plasma membrane,39
+291,d-aspartate transport,27
+292,glutamate secretion,171
+293,secretion by cell,172
+294,cell projection organization,177
+295,integral componentsynaptic membrane,173
+296,integral componentpostsynaptic membrane,173
+297,integral componentplasma membrane,121
+298,voltage-gated sodium channel complex,37
+299,supramolecular fiber,60
+300,intrinsic componentpostsynaptic membrane,80
+301,supramolecular polymer,60
+302,intrinsic componentsynaptic membrane,80
+303,ion channel complex,96
+304,intrinsic componentplasma membrane,121
+305,transmembrane transporter complex,14
+306,cell body,117
+307,transporter complex,83
+308,sodium channel complex,87
+309,cation channel complex,96
+310,supramolecular complex,60
+311,axonemal dynein complex,146
+312,synapse,32
+313,plasma membrane raft,7
+314,dynein complex,18
+315,plasma membrane protein complex,75
+316,polymeric cytoskeletal fiber,44
+317,extracellular matrix,64
+318,external encapsulating structure,111
+319,distal axon,152
+320,i band,31
+321,protein phosphorylation,145
+322,protein modification,164
+323,phosphorylation,179
+324,defense response,189
+325,phosphate metabolic,159
+326,phosphorus metabolic,123
+327,muscle contraction,17
+328,muscle system,61
+329,protein kinase,154
+330,multicellular organismal,113
+331,transport,175
+332,responseother organism,156
+333,responseexternal biotic stimulus,106
+334,calcium ion homeostasis,30
+335,protein phosphorylation,145
+336,cytosolic calcium ion concentration,93
+337,phosphate metabolic,159
+338,phosphorus metabolic,123
+339,responsebiotic stimulus,106
+340,kinase,167
+341,fever generation,92
+342,cytosolic calcium ion concentration,93
+343,ossification,24
+344,ion transport,47
+345,organic anion transport,88
+346,protein phosphorylation,145
+347,glucose transmembrane transport,12
+348,phosphorylation,179
+349,divalent inorganic cation homeostasis,104
+350,striated muscle contraction,17
+351,kinase,167
+352,cellular calcium ion homeostasis,86
+353,inflammatory response,62
+354,ion transport,47
+355,intracellular signal transduction,183
+356,protein serine/threonine kinase,129
+357,fever generation,92
+358,transferase,174
+359,responseexternal stimulus,106
+360,protein modification,164
+361,protein serine/threonine kinase,129
+362,second-messenger-mediated signaling,182
+363,hormone transport,27
+364,intracellular signal transduction,183
+365,heat generation,114
+366,cellular divalent inorganic cation homeostasis,104
+367,cellular protein metabolic,148
+368,blood circulation,24
+369,ion transmembrane transport,120
+370,defense response,189
+371,transmembrane transport,14
+372,cell adhesion,137
+373,responsestimulus,82
+374,cell adhesion,137
+375,protein kinase,154
+376,biological adhesion,150
+377,responseexternal stimulus,106
+378,cation homeostasis,30
+379,smooth muscle contraction,17
+380,locomotion,153
+381,transferase,174
+382,inorganic ion homeostasis,104
+383,glucose transmembrane transport,12
+384,protein metabolic,33
+385,actin-mediated cell contraction,38
+386,bone mineralization,56
+387,muscle contraction,17
+388,hexose transmembrane transport,12
+389,skeletal muscle contraction,17
+390,blood circulation,24
+391,cytokine production,89
+392,vasoconstriction,101
+393,monosaccharide transmembrane transport,12
+394,actin filament-based,46
+395,anion transmembrane transport,120
+396,heat generation,114
+397,carbohydrate transmembrane transport,12
+398,muscle adaptation,42
+399,hormone secretion,161
+400,cellular component movement,85
+401,chemical homeostasis,30
+402,cell motility,117
+403,responsebacterium,82
+404,cell migration,51
+405,ion transmembrane transport,120
+406,anion transport,47
+407,transmembrane transport,14
+408,defense responseother organism,156
+409,ion homeostasis,30
+410,signal transduction,63
+411,gene expression,15
+412,carboxylic acid transport,135
+413,cell migration,51
+414,hormone secretion,161
+415,cardiac muscle contraction,17
+416,acute inflammatory response,62
+417,striated muscle adaptation,42
+418,cyclic-nucleotide-mediated signaling,182
+419,immune system,168
+420,anion transport,47
+421,cellular cation homeostasis,86
+422,metal ion homeostasis,30
+423,glucose transmembrane transport,12
+424,cardiac muscle hypertrophy in responsestress,115
+425,muscle hypertrophy in responsestress,115
+426,anion transmembrane transport,120
+427,cellular metal ion homeostasis,86
+428,g protein-coupled receptor signaling,40
+429,muscle system,61
+430,innate immune response,109
+431,cardiac muscle adaptation,42
+432,monocarboxylic acid transport,135
+433,mapk cascade,31
+434,biomineral tissue development,141
+435,protein activation cascade,25
+436,cellular ion homeostasis,86
+437,actin filament-based,46
+438,biomineralization,56
+439,erk1 and erk2 cascade,76
+440,vasoconstriction,101
+441,cellular responseenvironmental stimulus,99
+442,cellular responseabiotic stimulus,99
+443,phasic smooth muscle contraction,17
+444,tube diameter,79
+445,actin filament-based movement,46
+446,blood vessel diameter maintenance,45
+447,cell population proliferation,10
+448,tube size,5
+449,musculoskeletal movement,54
+450,multicellular organismal movement,113
+451,circulatory system,58
+452,striated muscle tissue development,165
+453,humoral immune response,109
+454,fever generation,92
+455,"circadian sleep/wake cycle, wakefulness",119
+456,cellular amine metabolic,148
+457,"circadian sleep/wake cycle, wakefulness",119
+458,"circadian sleep/wake cycle, non-rem sleep",119
+459,lipid catabolic,0
+460,carbohydrate transport,27
+461,tumor necrosis factor production,22
+462,organic acid transport,88
+463,hormone levels,29
+464,defense response,189
+465,cell motility,117
+466,"g protein-coupled receptor signaling , coupledcyclic nucleotide second messenger",70
+467,immune effector,128
+468,inflammatory response,62
+469,protein localizationplasma membrane,136
+470,cell communication,51
+471,tumor necrosis factor superfamily cytokine production,22
+472,signaling,34
+473,erk1 and erk2 cascade,76
+474,system,32
+475,responsestress,82
+476,signal release,133
+477,gastro-intestinal system smooth muscle contraction,118
+478,intestine smooth muscle contraction,118
+479,cellular extravasation,41
+480,outer ear morphogenesis,2
+481,biomineral tissue development,141
+482,locomotion,153
+483,muscle tissue development,165
+484,cardiocyte differentiation,107
+485,cellular component movement,85
+486,biomineralization,56
+487,acute inflammatory response,62
+488,interleukin-1 alpha production,89
+489,catalytic,0
+490,immune system,168
+491,immune response,109
+492,bone mineralization,56
+493,biosynthetic,6
+494,leukocyte mediated immunity,45
+495,ion transmembrane transport,120
+496,gingival recession,150
+497,ifn-gamma,124
+498,ifn-gamma,124
+499,neuroactive ligand-receptor interaction,184
+500,neuroactive ligand-receptor interaction,184
+501,ras and bradykinin s in covid-19,126
+502,inflammatory mediator trp channels,36
+503,nod-like receptor signaling,130
+504,camp signaling,34
+505,complement and coagulation cascades,105
+506,pertussis,74
+507,cellular rolesanthrax toxin,181
+508,serotonin and anxiety,26
+509,complement pathway,13
+510,complement and coagulation cascades,105
+511,cellular rolesanthrax toxin,181
+512,notch-mediated hes/hey network,151
+513,notch-mediated hes/hey network,151
+514,complement activation,16
+515,eicosanoid metabolism,33
+516,initial triggeringcomplement,13
+517,t-cell antigen receptor (tcr)signaling pathway,130
+518,neurofilament,28
