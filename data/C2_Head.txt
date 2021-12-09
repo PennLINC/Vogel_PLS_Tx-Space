@@ -1,0 +1,12 @@
+Category	ID	Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y	Hit Count in Query List	Hit Count in Genome	Hit in Query List
+GO: Molecular Function	GO:0046873	metal ion transmembrane transporter activity	 	4.431E-5	1.981E-2	1.981E-2	1.323E-1	13	506	FXYD7,GRIN2A,SLC6A7,PTPN3,KCNC1,KCNC3,KCND3,SCN1B,NIPAL2,ATP2B2,ATP2B3,KCNAB3,ATP4A
+GO: Molecular Function	GO:1905056	P-type calcium transporter activity involved in regulation of presynaptic cytosolic calcium ion concentration	 	1.390E-4	6.211E-2	2.565E-2	1.714E-1	2	3	ATP2B2,ATP2B3
+GO: Molecular Function	GO:0022890	inorganic cation transmembrane transporter activity	 	1.722E-4	7.695E-2	2.565E-2	1.714E-1	14	660	FXYD7,COX7A1,GRIN2A,SLC6A7,PTPN3,KCNC1,KCNC3,KCND3,SCN1B,NIPAL2,ATP2B2,ATP2B3,KCNAB3,ATP4A
+GO: Molecular Function	GO:0008324	cation transmembrane transporter activity	 	3.472E-4	1.552E-1	3.880E-2	2.592E-1	14	707	FXYD7,COX7A1,GRIN2A,SLC6A7,PTPN3,KCNC1,KCNC3,KCND3,SCN1B,NIPAL2,ATP2B2,ATP2B3,KCNAB3,ATP4A
+GO: Molecular Function	GO:0015318	inorganic molecular entity transmembrane transporter activity	 	4.738E-4	2.118E-1	4.236E-2	2.830E-1	16	908	FXYD7,COX7A1,GRIN2A,SLC6A7,SLC22A9,PTPN3,KCNC1,KCNC3,KCND3,SCN1B,NIPAL2,SLC38A11,ATP2B2,ATP2B3,KCNAB3,ATP4A
+GO: Molecular Function	GO:0015662	P-type ion transporter activity	 	6.459E-4	2.887E-1	4.812E-2	3.215E-1	3	25	ATP2B2,ATP2B3,ATP4A
+GO: Cellular Component	GO:0098688	parallel fiber to Purkinje cell synapse	 	7.263E-5	2.237E-2	1.505E-2	9.493E-2	4	33	GRIN2A,CADPS2,ATP2B2,ATP2B3
+GO: Cellular Component	GO:0042734	presynaptic membrane	 	9.771E-5	3.009E-2	1.505E-2	9.493E-2	8	210	KCTD8,GRIN2A,STX19,KCNC1,KCNC3,CADPS2,ATP2B2,ATP2B3
+GO: Cellular Component	GO:0060076	excitatory synapse	 	2.315E-4	7.130E-2	2.377E-2	1.499E-1	5	81	GRIN2A,MET,CADPS2,ATP2B2,ATP2B3
+GO: Cellular Component	GO:0097060	synaptic membrane	 	4.446E-4	1.369E-1	2.961E-2	1.868E-1	11	479	COL13A1,KCTD8,GRIN2A,MET,STX19,KCNC1,KCNC3,KCND3,CADPS2,ATP2B2,ATP2B3
+GO: Cellular Component	GO:0045211	postsynaptic membrane	 	4.806E-4	1.480E-1	2.961E-2	1.868E-1	9	334	COL13A1,KCTD8,GRIN2A,MET,KCNC1,KCNC3,KCND3,CADPS2,ATP2B2

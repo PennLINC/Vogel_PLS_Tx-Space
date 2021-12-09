@@ -1,0 +1,78 @@
+Category	ID	Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y	Hit Count in Query List	Hit Count in Genome	Hit in Query List
+GO: Molecular Function	GO:0046977	TAP binding	 	1.796E-5	8.117E-3	7.831E-3	5.240E-2	3	8	HLA-A,HLA-B,HLA-F
+GO: Molecular Function	GO:0042605	peptide antigen binding	 	3.465E-5	1.566E-2	7.831E-3	5.240E-2	4	27	HLA-A,HLA-B,HLA-DPB1,HLA-F
+GO: Biological Process	GO:0002486	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	 	1.756E-5	5.521E-2	2.747E-2	2.370E-1	3	8	HLA-A,HLA-B,HLA-F
+GO: Biological Process	GO:0002480	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	 	2.621E-5	8.240E-2	2.747E-2	2.370E-1	3	9	HLA-A,HLA-B,HLA-F
+GO: Biological Process	GO:0002484	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	 	2.621E-5	8.240E-2	2.747E-2	2.370E-1	3	9	HLA-A,HLA-B,HLA-F
+GO: Cellular Component	GO:0042611	MHC protein complex	 	2.584E-5	1.013E-2	3.961E-3	2.595E-2	4	26	HLA-A,HLA-B,HLA-DPB1,HLA-F
+GO: Cellular Component	GO:0042612	MHC class I protein complex	 	3.429E-5	1.344E-2	3.961E-3	2.595E-2	3	10	HLA-A,HLA-B,HLA-F
+GO: Cellular Component	GO:0098553	lumenal side of endoplasmic reticulum membrane	 	4.042E-5	1.585E-2	3.961E-3	2.595E-2	4	29	HLA-A,HLA-B,HLA-DPB1,HLA-F
+GO: Cellular Component	GO:0071556	integral component of lumenal side of endoplasmic reticulum membrane	 	4.042E-5	1.585E-2	3.961E-3	2.595E-2	4	29	HLA-A,HLA-B,HLA-DPB1,HLA-F
+GO: Cellular Component	GO:0098576	lumenal side of membrane	 	9.668E-5	3.790E-2	7.580E-3	4.964E-2	4	36	HLA-A,HLA-B,HLA-DPB1,HLA-F
+GO: Cellular Component	GO:0012507	ER to Golgi transport vesicle membrane	 	7.526E-4	2.950E-1	4.917E-2	3.221E-1	4	61	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	83124	Graft-versus-host disease	BioSystems: KEGG	6.641E-6	7.066E-3	3.295E-3	2.487E-2	5	38	HLA-A,HLA-B,HLA-DPB1,HLA-F,IL1B
+Pathway	M13519	Graft-versus-host disease	MSigDB C2 BIOCARTA (v7.3)	6.641E-6	7.066E-3	3.295E-3	2.487E-2	5	38	HLA-A,HLA-B,HLA-DPB1,HLA-F,IL1B
+Pathway	M12617	Type I diabetes mellitus	MSigDB C2 BIOCARTA (v7.3)	1.239E-5	1.318E-2	3.295E-3	2.487E-2	5	43	HLA-A,HLA-B,HLA-DPB1,HLA-F,IL1B
+Pathway	83095	Type I diabetes mellitus	BioSystems: KEGG	1.239E-5	1.318E-2	3.295E-3	2.487E-2	5	43	HLA-A,HLA-B,HLA-DPB1,HLA-F,IL1B
+Pathway	1270249	Crosslinking of collagen fibrils	BioSystems: REACTOME	2.796E-5	2.975E-2	5.950E-3	4.491E-2	3	9	LOXL2,TLL1,PCOLCE
+Pathway	1270245	Collagen formation	BioSystems: REACTOME	3.862E-5	4.109E-2	6.849E-3	5.169E-2	6	89	COL8A2,LAMA3,LOXL2,TLL1,PCOLCE2,PCOLCE
+Pathway	1270247	Assembly of collagen fibrils and other multimeric structures	BioSystems: REACTOME	4.984E-5	5.303E-2	7.575E-3	5.717E-2	5	57	COL8A2,LAMA3,LOXL2,TLL1,PCOLCE
+Pathway	1269198	Endosomal/Vacuolar pathway	BioSystems: REACTOME	7.211E-5	7.673E-2	9.591E-3	7.239E-2	3	12	HLA-A,HLA-B,HLA-F
+Pathway	1270293	Activation of DNA fragmentation factor	BioSystems: REACTOME	9.326E-5	9.923E-2	9.923E-3	7.490E-2	3	13	H1-2,H1-4,H1-1
+Pathway	1270292	Apoptosis induced DNA fragmentation	BioSystems: REACTOME	9.326E-5	9.923E-2	9.923E-3	7.490E-2	3	13	H1-2,H1-4,H1-1
+Pathway	83123	Allograft rejection	BioSystems: KEGG	1.298E-4	1.381E-1	1.063E-2	8.020E-2	4	37	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	M39363	Type II interferon signaling (IFNG)	MSigDB C2 BIOCARTA (v7.3)	1.298E-4	1.381E-1	1.063E-2	8.020E-2	4	37	HLA-B,JAK2,ISG15,IL1B
+Pathway	M18615	Allograft rejection	MSigDB C2 BIOCARTA (v7.3)	1.298E-4	1.381E-1	1.063E-2	8.020E-2	4	37	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	1270430	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	BioSystems: REACTOME	1.798E-4	1.913E-1	1.367E-2	1.031E-1	3	16	H1-2,H1-4,H1-1
+Pathway	377873	Herpes simplex infection	BioSystems: KEGG	2.823E-4	3.004E-1	2.003E-2	1.512E-1	7	180	IL15,HLA-A,HLA-B,HLA-DPB1,HLA-F,JAK2,IL1B
+Pathway	83121	Autoimmune thyroid disease	BioSystems: KEGG	3.605E-4	3.835E-1	2.256E-2	1.703E-1	4	48	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	M13103	Autoimmune thyroid disease	MSigDB C2 BIOCARTA (v7.3)	3.605E-4	3.835E-1	2.256E-2	1.703E-1	4	48	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	M39398	Allograft Rejection	MSigDB C2 BIOCARTA (v7.3)	3.926E-4	4.177E-1	2.320E-2	1.751E-1	5	88	HLA-A,HLA-B,HLA-DPB1,HLA-F,IL1B
+Pathway	1269314	Interferon gamma signaling	BioSystems: REACTOME	4.820E-4	5.128E-1	2.611E-2	1.971E-1	5	92	HLA-A,HLA-B,HLA-DPB1,HLA-F,JAK2
+Pathway	1270287	Apoptotic execution  phase	BioSystems: REACTOME	4.908E-4	5.222E-1	2.611E-2	1.971E-1	4	52	DSP,H1-2,H1-4,H1-1
+Pathway	153910	Phagosome	BioSystems: KEGG	6.734E-4	7.165E-1	3.411E-2	2.574E-1	6	150	HLA-A,HLA-B,HLA-DPB1,HLA-F,COLEC11,PLA2R1
+Pathway	1269194	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	BioSystems: REACTOME	7.053E-4	7.504E-1	3.411E-2	2.574E-1	3	25	HLA-A,HLA-B,HLA-F
+Pathway	125138	Viral myocarditis	BioSystems: KEGG	7.447E-4	7.924E-1	3.445E-2	2.600E-1	4	58	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	137922	IL12-mediated signaling events	BioSystems: Pathway Interaction Database	8.468E-4	9.010E-1	3.754E-2	2.833E-1	4	60	HLA-A,JAK2,IL1B,MAP2K6
+Pathway	M54	IL12-mediated signaling events	MSigDB C2 BIOCARTA (v7.3)	9.584E-4	1.000E0	4.009E-2	3.026E-1	4	62	HLA-A,JAK2,IL1B,MAP2K6
+Pathway	1270365	POLB-Dependent Long Patch Base Excision Repair	BioSystems: REACTOME	1.017E-3	1.000E0	4.009E-2	3.026E-1	2	7	LIG1,FEN1
+Pathway	1270248	Anchoring fibril formation	BioSystems: REACTOME	1.017E-3	1.000E0	4.009E-2	3.026E-1	2	7	LAMA3,TLL1
+Pathway	M40051	RAS and Bradykinin pathways in COVID-19	MSigDB C2 BIOCARTA (v7.3)	1.098E-3	1.000E0	4.172E-2	3.149E-1	3	29	BDKRB2,SERPING1,IL1B
+Pathway	1269312	Interferon alpha/beta signaling	BioSystems: REACTOME	1.145E-3	1.000E0	4.199E-2	3.169E-1	4	65	HLA-A,HLA-B,HLA-F,ISG15
+Pathway	1270246	Collagen biosynthesis and modifying enzymes	BioSystems: REACTOME	1.282E-3	1.000E0	4.546E-2	3.431E-1	4	67	COL8A2,TLL1,PCOLCE2,PCOLCE
+Pathway	1269784	DNA strand elongation	BioSystems: REACTOME	1.468E-3	1.000E0	4.865E-2	3.672E-1	3	32	MCM3,LIG1,FEN1
+Pathway	M12294	Viral myocarditis	MSigDB C2 BIOCARTA (v7.3)	1.509E-3	1.000E0	4.865E-2	3.672E-1	4	70	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Pathway	83074	Antigen processing and presentation	BioSystems: KEGG	1.509E-3	1.000E0	4.865E-2	3.672E-1	4	70	HLA-A,HLA-B,HLA-DPB1,HLA-F
+Disease	C0033802	Pseudogout	DisGeNET BeFree	3.553E-6	1.580E-2	6.772E-3	6.079E-2	4	15	ANK1,HLA-A,HLA-B,POMC
+Disease	C0553730	Calcium pyrophosphate deposition disease	DisGeNET BeFree	4.710E-6	2.095E-2	6.772E-3	6.079E-2	4	16	ANK1,HLA-A,HLA-B,POMC
+Disease	C0026896	Myasthenia Gravis	DisGeNET Curated	7.614E-6	3.386E-2	6.772E-3	6.079E-2	3	6	HLA-B,HLA-DPB1,POMC
+Disease	C0751340	Myasthenia Gravis, Ocular	DisGeNET Curated	7.614E-6	3.386E-2	6.772E-3	6.079E-2	3	6	HLA-B,HLA-DPB1,POMC
+Disease	C0751339	Myasthenia Gravis, Generalized	DisGeNET Curated	7.614E-6	3.386E-2	6.772E-3	6.079E-2	3	6	HLA-B,HLA-DPB1,POMC
+Disease	608579		OMIM MedGen	5.395E-5	2.399E-1	2.999E-2	2.692E-1	2	2	HLA-A,HLA-B
+Disease	cv:C1840548	Susceptibility to severe cutaneous adverse reaction	Clinical Variations	5.395E-5	2.399E-1	2.999E-2	2.692E-1	2	2	HLA-A,HLA-B
+Disease	cv:CN077964	Carbamazepine response	Clinical Variations	5.395E-5	2.399E-1	2.999E-2	2.692E-1	2	2	HLA-A,HLA-B
+Disease	C1708781	Sarcomatoid carcinoma of the lung	DisGeNET BeFree	6.115E-5	2.719E-1	3.021E-2	2.712E-1	3	11	CALB2,JAK2,MET
+Disease	C0574960	Sacroiliitis	DisGeNET BeFree	7.479E-5	3.326E-1	3.150E-2	2.827E-1	4	31	HLA-A,HLA-B,HLA-DPB1,IL1B
+Disease	C0343723	Neonatal chlamydial conjunctivitis	DisGeNET BeFree	8.499E-5	3.780E-1	3.150E-2	2.827E-1	4	32	IL15,HLA-A,HLA-B,IL1B
+Disease	C0040592	Trachoma	DisGeNET BeFree	8.499E-5	3.780E-1	3.150E-2	2.827E-1	4	32	IL15,HLA-A,HLA-B,IL1B
+Disease	C0042165	Anterior uveitis	DisGeNET BeFree	9.617E-5	4.277E-1	3.288E-2	2.951E-1	4	33	HLA-A,HLA-B,SERPING1,IL1B
+Disease	C0282687	Hemorrhagic Fever, Ebola	DisGeNET BeFree	1.100E-4	4.892E-1	3.288E-2	2.951E-1	7	148	HLA-A,HLA-B,BAG3,POMC,ISG15,LGR6,IL1B
+Disease	C0039263	Takayasu Arteritis	DisGeNET BeFree	1.109E-4	4.931E-1	3.288E-2	2.951E-1	6	103	HLA-A,HLA-B,HLA-DPB1,JAK2,PTX3,IL1B
+Disease	C0002020	Alexithymia	DisGeNET BeFree	1.517E-4	6.748E-1	3.555E-2	3.192E-1	4	37	BAG3,SERPING1,IL1B,TP53AIP1
+Disease	C4021800	Abnormality of dental enamel	DisGeNET BeFree	1.599E-4	7.110E-1	3.555E-2	3.192E-1	2	3	DSP,LAMA3
+Disease	C0032962	Pregnancy Complications	DisGeNET Curated	1.599E-4	7.110E-1	3.555E-2	3.192E-1	2	3	JAK2,HSD11B2
+Disease	C0410574	Synovial Hypertrophy	DisGeNET Curated	1.599E-4	7.110E-1	3.555E-2	3.192E-1	2	3	HLA-B,POMC
+Disease	C0039103	Synovitis	DisGeNET Curated	1.599E-4	7.110E-1	3.555E-2	3.192E-1	2	3	HLA-B,POMC
+Disease	C2316810	Chronic kidney disease stage 5	DisGeNET BeFree	2.080E-4	9.251E-1	4.215E-2	3.784E-1	13	552	HLA-A,HLA-B,POMC,GRP,BDKRB2,MEIS1,MET,LIMK2,MGP,PTX3,HSD11B2,IL1B,FRMD3
+Disease	C0001403	Addison Disease	DisGeNET BeFree	2.115E-4	9.408E-1	4.215E-2	3.784E-1	5	74	IL15,SAMD9,HLA-B,HLA-DPB1,POMC
+Disease	C0023343	Leprosy	DisGeNET BeFree	2.239E-4	9.959E-1	4.215E-2	3.784E-1	7	166	IL15,HLA-A,HLA-B,CCDC88B,NUPR1,HSD11B2,IL1B
+Disease	C3541994	Drug Hypersensitivity Syndrome	DisGeNET BeFree	2.275E-4	1.000E0	4.215E-2	3.784E-1	4	41	ANK1,HLA-A,HLA-B,IL1B
+Disease	C0543698	Hypersensitive syndrome	DisGeNET BeFree	2.440E-4	1.000E0	4.276E-2	3.838E-1	3	17	HLA-A,HLA-B,POMC
+Disease	C3896961	Adult Pre-B Acute Lymphoblastic Leukemia	DisGeNET BeFree	2.500E-4	1.000E0	4.276E-2	3.838E-1	4	42	IL15,FLT3,PAX8,IL1B
+Disease	C3714757	Juvenile rheumatoid arthritis	DisGeNET BeFree	2.882E-4	1.000E0	4.409E-2	3.958E-1	7	173	IL15,HLA-A,HLA-B,HLA-DPB1,PYDC1,PTX3,IL1B
+Disease	C0032768	Postherpetic neuralgia	DisGeNET BeFree	2.913E-4	1.000E0	4.409E-2	3.958E-1	3	18	HLA-A,HLA-B,NTN1
+Disease	C1456792	Still's disease with juvenile onset and/or adult onset	DisGeNET BeFree	3.182E-4	1.000E0	4.409E-2	3.958E-1	2	4	HLA-B,IL1B
+Disease	C0339403	Presumed ocular histoplasmosis syndrome	DisGeNET BeFree	3.182E-4	1.000E0	4.409E-2	3.958E-1	2	4	HLA-A,HLA-B
+Disease	C2827356	Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA, PDGFRB, or FGFR1, or with PCM1-JAK2	DisGeNET BeFree	3.182E-4	1.000E0	4.409E-2	3.958E-1	2	4	FLT3,JAK2
+Disease	C0026769	Multiple Sclerosis	DisGeNET Curated	3.272E-4	1.000E0	4.409E-2	3.958E-1	4	45	HLA-DPB1,POMC,CBLB,IL1B
+Disease	C0751324	Multiple Sclerosis, Acute Fulminating	DisGeNET Curated	3.272E-4	1.000E0	4.409E-2	3.958E-1	4	45	HLA-DPB1,POMC,CBLB,IL1B
