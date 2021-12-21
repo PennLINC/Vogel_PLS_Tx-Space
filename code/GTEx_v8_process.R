@@ -93,12 +93,12 @@ regressCovariates_mRNA_linearModel <- function(datExpr,datMeta) {
 ################################################################
 
 # define directories
-dataDir <- "~/Desktop/Education_GTEX_WGCNA/data/"
-figureDir <- "~/Desktop/Education_GTEX_WGCNA/figures/"
+dataDir <- "../data/"
+figureDir <- "../figures"
 if (!dir.exists(figureDir)) {
   dir.create(figureDir)
 }
-processedDataDir <- "~/Desktop/Education_GTEX_WGCNA/data/"
+processedDataDir <- "../data/"
 if (!dir.exists(processedDataDir)) {
   dir.create(processedDataDir)
 }
@@ -190,7 +190,7 @@ ctx_covariates$SMTSD = as.factor(ctx_covariates$SMTSD)
 ## Check relationship between top gene expression PCs and covariates
 # Standard normalize unregressed data
 gene_tpm_ctx4.stdNorm <- t(standardNormalization(t(gene_tpm_ctx4)))
-write.csv(gene_tpm_ctx4.stdNorm,"~/Desktop/Education_GTEX_WGCNA/processed_data/GTEx_brain_norm_noregress.csv")
+write.csv(gene_tpm_ctx4.stdNorm,"../data/GTEx_brain_norm_noregress.csv")
 # Set up covariate matrix
 # pairsDat_mRNA <- ctx_covariates[,c("RIN","AGE","SEX","SMTSD","SeqPC1","SeqPC2","SeqPC3","SeqPC4","SeqPC5")]
 # # Unnormalized Expression Data
