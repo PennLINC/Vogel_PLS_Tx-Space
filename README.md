@@ -1,5 +1,5 @@
 # Vogel_PLS_Tx-Space
-Data and code for Vogel, Seidlitz et al., Transcriptomic Gradients paper
+Data and code for Vogel, Seidlitz et al., Transcriptomic Gradients paper. See [project page](https://pennlinc.github.io/Vogel_PLS_Tx-Space/) for additional information.
 
 Included are several Jupyter notebooks running through each of the analyses in the paper, showing the exact code and data used to prepare and run each analysis and sub-analysis, and generate the figures from the manuscript.
 
