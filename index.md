@@ -12,6 +12,7 @@ nav_order: 1
 Whole-brain molecular axes encoding relative spatial location in the human brain
 
 Brief Project Description
+
 There is strong evidence for large-scale genomic gradients helping to organize the spatial distribution of function in the brain, but this topic is very difficult to study in humans. We use PLS to define spatial gradients of gene expression in the adult human brain, and we explore how these gradients emerge of ontogeny and phylogeny, how they relate to topological brain features, how they may influence different traits, and what their relationship is to cell fate.
 
 
