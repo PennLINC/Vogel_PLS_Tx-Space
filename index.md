@@ -1,3 +1,10 @@
+---
+layout: default
+title: Whole-brain molecular axes encoding relative spatial location in the human brain
+has_toc: true
+nav_order: 1
+---
+
 1. TOC {:toc}
 
 **Project Title**
