@@ -11,13 +11,13 @@ Running these notebooks will require Python 3.7.3 or above, Jupyter, and a numbe
 # Reproducing analyses on your machine
 To reproduce these analyses on your computer, all you have to do is:
 
-* Install python if you haven't aready.
+* Install python if you haven't aready. We suggest Anaconda.
 * Clone or download this entire repository.
 * Use the requirements.txt file to recreate my python environment with the following commands (inside this git repo):
 
 ```
-virtualenv pls_gxp
-source plx_gxp/bin/activate
+conda create -n pls_gxp python=3.7.3
+conda activate pls_gxp
 pip install -r requirements.txt
 ```
 
