@@ -90,8 +90,11 @@ def display_results(results, thr = 0.95, plot=True):
     return comp_results
 
 
-def bootstrap_features(clf, fit_model, X, y, n_iterations=500, check = 100, on ='x', random_state = 123):
+def bootstrap_features(clf, fit_model, X, y, n_iterations=500, check = 100, on ='x', random_state = 123, mode = 'loadings'):
     
+    options = ['loadings','rotations','weights']
+    if mode not in options:
+        raise ValueError('option mode must be sent to one of %s'%options)
     if type(X) != type(pandas.DataFrame()):
         X = pandas.DataFrame(X)
     if type(y) != type(pandas.DataFrame()):
@@ -123,18 +126,30 @@ def bootstrap_features(clf, fit_model, X, y, n_iterations=500, check = 100, on =
         n_samp = pandas.DataFrame(X.loc[n_ind],copy=True)
         ny = pandas.DataFrame(y.loc[n_ind],copy=True)
         newmod = clf.fit(n_samp,ny)
+        if mode == 'loadings':
+            ox_load = orig.x_loadings_
+            nx_load = newmod.x_loadings_
+            ny_load = newmod.y_loadings_
+        elif mode == 'rotations':
+            ox_load = orig.x_rotations_
+            nx_load = newmod.x_rotations_
+            ny_load = newmod.y_rotations_
+        elif mode == 'weights':
+            ox_load = orig.x_weights_
+            nx_load = newmod.x_weights_
+            ny_load = newmod.y_weights_
         for c in range(orig.n_components):
-            xcorrs = [stats.pearsonr(orig.x_loadings_[:,c],
-                                     newmod.x_loadings_[:,x])[0]**2 for x in range(orig.n_components)]
+            xcorrs = [stats.pearsonr(ox_load[:,c],
+                                     nx_load[:,x])[0]**2 for x in range(orig.n_components)]
             closest = np.argmax(xcorrs)
             # account for possible inversion
-            if stats.pearsonr(orig.x_loadings_[:,c],
-                         newmod.x_loadings_[:,closest])[0] < 0:
-                new_loadingsX = newmod.x_loadings_[:,closest] * -1
-                new_loadingsy = newmod.y_loadings_[:,closest] * -1
+            if stats.pearsonr(ox_load[:,c],
+                         nx_load[:,closest])[0] < 0:
+                new_loadingsX = nx_load[:,closest] * -1
+                new_loadingsy = ny_load[:,closest] * -1
             else:
-                new_loadingsX = newmod.x_loadings_[:,closest]
-                new_loadingsy = newmod.y_loadings_[:,closest]
+                new_loadingsX = nx_load[:,closest]
+                new_loadingsy = ny_load[:,closest]
 
             all_results_x[c].loc[i] = new_loadingsX
             all_results_y[c].loc[i] = new_loadingsy
