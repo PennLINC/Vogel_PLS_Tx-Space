@@ -1,0 +1,198 @@
+Category	ID	Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y	Hit Count in Query List	Hit Count in Genome	Hit in Query List
+GO: Molecular Function	GO:0015636	short-chain fatty acid transmembrane transporter activity	 	2.054E-5	4.396E-3	4.396E-3	2.614E-2	2	5	SLC22A9,SLC22A10
+GO: Molecular Function	GO:0019534	toxin transmembrane transporter activity	 	2.137E-4	4.574E-2	2.216E-2	1.317E-1	2	15	SLC22A9,SLC22A10
+GO: Molecular Function	GO:0015347	sodium-independent organic anion transmembrane transporter activity	 	3.106E-4	6.647E-2	2.216E-2	1.317E-1	2	18	SLC22A9,SLC22A10
+GO: Molecular Function	GO:0015245	fatty acid transmembrane transporter activity	 	5.573E-4	1.193E-1	2.982E-2	1.773E-1	2	24	SLC22A9,SLC22A10
+GO: Molecular Function	GO:0015301	anion:anion antiporter activity	 	1.123E-3	2.402E-1	3.918E-2	2.329E-1	2	34	SLC22A9,SLC22A10
+GO: Molecular Function	GO:0140323	solute:anion antiporter activity	 	1.123E-3	2.402E-1	3.918E-2	2.329E-1	2	34	SLC22A9,SLC22A10
+GO: Molecular Function	GO:0031764	type 1 galanin receptor binding	 	1.465E-3	3.134E-1	3.918E-2	2.329E-1	1	1	GAL
+GO: Molecular Function	GO:0005008	hepatocyte growth factor-activated receptor activity	 	1.465E-3	3.134E-1	3.918E-2	2.329E-1	1	1	MET
+GO: Molecular Function	GO:0001530	lipopolysaccharide binding	 	1.711E-3	3.661E-1	4.067E-2	2.418E-1	2	42	CASP5,CD6
+GO: Molecular Function	GO:0036458	hepatocyte growth factor binding	 	2.923E-3	6.255E-1	4.468E-2	2.656E-1	1	2	MET
+GO: Molecular Function	GO:0008147	structural constituent of bone	 	2.923E-3	6.255E-1	4.468E-2	2.656E-1	1	2	MGP
+GO: Molecular Function	GO:0031765	type 2 galanin receptor binding	 	2.923E-3	6.255E-1	4.468E-2	2.656E-1	1	2	GAL
+GO: Molecular Function	GO:0031766	type 3 galanin receptor binding	 	2.923E-3	6.255E-1	4.468E-2	2.656E-1	1	2	GAL
+GO: Molecular Function	GO:0031763	galanin receptor binding	 	2.923E-3	6.255E-1	4.468E-2	2.656E-1	1	2	GAL
+GO: Biological Process	GO:0035382	sterol transmembrane transport	 	1.252E-5	1.687E-2	8.435E-3	6.566E-2	2	4	SLC22A9,SLC22A10
+GO: Biological Process	GO:0015913	short-chain fatty acid import	 	1.252E-5	1.687E-2	8.435E-3	6.566E-2	2	4	SLC22A9,SLC22A10
+GO: Biological Process	GO:0015912	short-chain fatty acid transport	 	2.084E-5	2.809E-2	9.364E-3	7.289E-2	2	5	SLC22A9,SLC22A10
+GO: Biological Process	GO:0002238	response to molecule of fungal origin	 	9.335E-5	1.258E-1	3.146E-2	2.449E-1	2	10	SLC22A9,SLC22A10
+Disease	C0206654	Leiomyomatosis	DisGeNET BeFree	3.555E-4	4.753E-1	2.120E-2	1.649E-1	2	18	MET,CD6
+Disease	C4324621	Opioid use disorder	DisGeNET BeFree	4.865E-4	6.505E-1	2.120E-2	1.649E-1	2	21	MET,GAL
+Disease	C0024232	Lymphatic Metastasis	DisGeNET Curated	7.493E-4	1.000E0	2.120E-2	1.649E-1	2	26	MET,SLC22A10
+Disease	C1263846	Attention deficit hyperactivity disorder	DisGeNET BeFree	7.880E-4	1.000E0	2.120E-2	1.649E-1	5	481	GAL,LXN,CDH13,CNTN6,HRH3
+Disease	C4082304	Oligodontia	DisGeNET BeFree	8.085E-4	1.000E0	2.120E-2	1.649E-1	2	27	WNT10A,DSP
+Disease	C0023470	Myeloid Leukemia	DisGeNET BeFree	1.493E-3	1.000E0	2.120E-2	1.649E-1	4	323	PRRX1,CD6,KRT31,CDH13
+Disease	C0007131	Non-Small Cell Lung Carcinoma	DisGeNET Curated	1.521E-3	1.000E0	2.120E-2	1.649E-1	3	147	MET,CDH13,SLC22A10
+Disease	C1835492	TOOTH AGENESIS, SELECTIVE, 4 (disorder)	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1835493	Succedaneous Teeth, Agenesis Of	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1857069	SCHOPF-SCHULZ-PASSARGE SYNDROME (disorder)	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C0035353	Congenital retrognathism	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	cv:C1852127	Keratosis palmoplantaris striata II	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	cv:C1843896	Arrhythmogenic right ventricular dysplasia 8	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	615779	CONGENITAL HEART DEFECTS, MULTIPLE TYPES, 4	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	NR2F2
+Disease	cv:C0265242	Agnathia-otocephaly complex	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	cv:C4225318	Epilepsy, familial temporal lobe, 8	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GAL
+Disease	C2931899	Papillary renal cell carcinoma, familial	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C0796093	Odontoonychodermal dysplasia	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	150400	TOOTH AGENESIS, SELECTIVE, 4	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1275074	Odonto-onycho-dermal dysplasia	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	cv:C4014393	Cardiomyopathy, dilated, with woolly hair, keratoderma, and tooth agenesis	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C1843292	Skin Fragility-Woolly Hair Syndrome	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	cv:C4310665	Amelogenesis imperfecta, hypomaturation type IIA6	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GPR68
+Disease	cv:C0796093	Odonto-onycho-dermal dysplasia	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1836723	Tibia, Bowing of, with Pseudarthrosis and Pectus Excavatum	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C3826590	Chest--Tumors	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	616461	EPILEPSY, FAMILIAL TEMPORAL LOBE, 8	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GAL
+Disease	612908	KERATOSIS PALMOPLANTARIS STRIATA II	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C4310665	AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA6	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GPR68
+Disease	C4084709	DEAFNESS, AUTOSOMAL RECESSIVE 97	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C1336078	Papillary renal cell carcinoma, sporadic	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	cv:C1843292	Skin fragility-woolly hair-palmoplantar keratoderma syndrome	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C0948281	Malignant syndrome NOS	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	cv:C4014310	Congenital heart defects, multiple types, 4	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	NR2F2
+Disease	C1336839	Type 1 Papillary Renal Cell Carcinoma	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C1336139	Stage IB Non-Small Cell Lung Carcinoma AJCC v7	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C2751315	Atrial Septal Defect 6	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	TLL1
+Disease	C1290511	Anodontia of Permanent Dentition	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	607278	OSTEOFIBROUS DYSPLASIA, SUSCEPTIBILITY TO	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	257980	ODONTOONYCHODERMAL DYSPLASIA	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1854063	Cardiomyopathy dilated with Woolly hair and keratoderma	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C0085222	Psoas Abscess	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	CD6
+Disease	C0879257	Hereditary Papillary Renal Carcinoma	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C0857828	Infection in the elderly	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	KRT31
+Disease	245150	KEUTEL SYNDROME	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MGP
+Disease	202650	AGNATHIA-OTOCEPHALY COMPLEX	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	cv:C1855607	Keutel syndrome	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MGP
+Disease	C3494426	Mandibular Retrusion	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	C3494425	Mandibular Retroposition	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	C3494424	Maxillary Retrusion	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	C0270771	Syringobulbia	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	CD6
+Disease	C3494423	Maxillary Retroposition	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	C3494422	Retrognathia	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	C1739133	Mucocutaneous herpes simplex	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C0279581	Childhood L2 Acute Lymphoblastic Leukemia	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	CD6
+Disease	C0311334	Generalized convulsive epilepsy	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GAL
+Disease	C2751315	Atrial Septal Defect 6	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	TLL1
+Disease	C4304144	Primary seminoma	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	TDRD1
+Disease	C1274743	Hyperhidrosis Palmaris Et Plantaris	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	605676	CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR AND KERATODERMA	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C4724264	stage IB non-small cell lung cancer	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C1854063	Cardiomyopathy dilated with Woolly hair and keratoderma	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	cv:C4085248	Osteofibrous dysplasia	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	613087	ATRIAL SEPTAL DEFECT 6	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	TLL1
+Disease	607655	SKIN FRAGILITY-WOOLLY HAIR SYNDROME	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	617217	AMELOGENESIS IMPERFECTA, HYPOMATURATION TYPE, IIA6	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GPR68
+Disease	20090402:Org	Hypertension	GWAS	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	CDH13
+Disease	C4744722	Advanced Cervical Carcinoma	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C4014310	CONGENITAL HEART DEFECTS, MULTIPLE TYPES, 4	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	NR2F2
+Disease	C0848724	circulation problem	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	TLL1
+Disease	607450	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	609638	EPIDERMOLYSIS BULLOSA, LETHAL ACANTHOLYTIC	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C0543816	Progressive cardiomyopathic lentiginosis syndrome	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	cv:C1854063	Dilated cardiomyopathy with woolly hair and keratoderma	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C1835492	TOOTH AGENESIS, SELECTIVE, 4 (disorder)	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1864826	Epidermolysis bullosa, lethal acantholytic	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	224750	SCHOPF-SCHULZ-PASSARGE SYNDROME	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1857069	SCHOPF-SCHULZ-PASSARGE SYNDROME (disorder)	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	cv:C1835492	Tooth agenesis, selective, 4	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	cv:C2751315	Atrial septal defect 6	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	TLL1
+Disease	C1852127	KERATOSIS PALMOPLANTARIS STRIATA II	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C4014393	CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR, KERATODERMA, AND TOOTH AGENESIS	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	cv:C1857069	Schopf-Schulz-Passarge syndrome	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1843896	Arrhythmogenic Right Ventricular Dysplasia, Familial, 8	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C0796093	Odontoonychodermal dysplasia	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C4225318	EPILEPSY, FAMILIAL TEMPORAL LOBE, 8	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	GAL
+Disease	cv:C1864826	Lethal acantholytic epidermolysis bullosa	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C0270679	Brain stem herniation	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	CD6
+Disease	615821	CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR, KERATODERMA, AND TOOTH AGENESIS	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	cv:C4084709	Deafness, autosomal recessive 97	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C1275074	Odonto-onycho-dermal dysplasia	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	WNT10A
+Disease	C1843292	Skin Fragility-Woolly Hair Syndrome	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	DSP
+Disease	C1855607	Keutel syndrome	DisGeNET Curated	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MGP
+Disease	C1367539	Giant cell angiofibroma	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	CD6
+Disease	616705	DEAFNESS, AUTOSOMAL RECESSIVE 97	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C4084709	DEAFNESS, AUTOSOMAL RECESSIVE 97	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	MET
+Disease	C0276161	Subacute adenoviral encephalitis	DisGeNET BeFree	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	PRRX1
+Disease	618901	46,XX SEX REVERSAL 5	OMIM MedGen	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	NR2F2
+Disease	cv:C5394441	46,xx sex reversal 5	Clinical Variations	1.570E-3	1.000E0	2.120E-2	1.649E-1	1	1	NR2F2
+Disease	C3266262	Multiple Chronic Conditions	DisGeNET BeFree	1.737E-3	1.000E0	2.323E-2	1.806E-1	6	857	MET,GAL,CD6,LXN,DSP,HRH3
+Disease	C0796070	MICROPHTHALMIA, SYNDROMIC 7	DisGeNET BeFree	1.774E-3	1.000E0	2.349E-2	1.826E-1	2	40	MET,CD6
+Disease	C0029453	Osteopenia	DisGeNET BeFree	1.957E-3	1.000E0	2.566E-2	1.995E-1	5	590	WNT10A,MET,PRRX1,CD6,MGP
+Disease	C0013575	Ectodermal Dysplasia	DisGeNET BeFree	2.341E-3	1.000E0	3.039E-2	2.363E-1	2	46	WNT10A,DSP
+Disease	C0206651	Clear Cell Sarcoma of Soft Tissue	DisGeNET BeFree	2.443E-3	1.000E0	3.103E-2	2.413E-1	2	47	MET,CD6
+Disease	C0080233	Tooth Loss	DisGeNET BeFree	2.443E-3	1.000E0	3.103E-2	2.413E-1	2	47	WNT10A,MGP
+Disease	C0917799	Hypersomnia	DisGeNET BeFree	2.652E-3	1.000E0	3.103E-2	2.413E-1	2	49	GAL,HRH3
+Disease	C1301194	Salivary duct carcinoma	DisGeNET BeFree	2.982E-3	1.000E0	3.103E-2	2.413E-1	2	52	MET,GAL
+Disease	C0001956	Alcohol Use Disorder	DisGeNET BeFree	3.110E-3	1.000E0	3.103E-2	2.413E-1	3	189	GAL,LXN,CNTN6
+Disease	C4015202	PALMOPLANTAR KERATODERMA AND WOOLLY HAIR	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	DSP
+Disease	C1864826	Epidermolysis bullosa, lethal acantholytic	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	DSP
+Disease	C0154060	Carcinoma in situ of stomach	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C0007659	Cementoma	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	CD6
+Disease	C0279606	Childhood Hepatocellular Carcinoma	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C0265242	Otocephaly	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	PRRX1
+Disease	C1858302	Ectodermal dysplasia/ skin fragility syndrome	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	DSP
+Disease	C0275686	Congenital listeriosis	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	LXN
+Disease	C3887503	Neonatal Listeriosis	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	LXN
+Disease	C0231616	Beevor's sign	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	CD6
+Disease	C0740281	Multiple allergies	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	DSP
+Disease	C3809719	Severe dermatitis, multiple allergies, metabolic wasting syndrome	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	DSP
+Disease	605074	RENAL CELL CARCINOMA, PAPILLARY, 1	OMIM MedGen	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C0342649	Vascular calcification	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MGP
+Disease	C1328544	Tubular breast carcinoma	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	CDH13
+Disease	C0266893	Subgingival dental calculus	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MGP
+Disease	C0025470	Mesenteric Panniculitis	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	LXN
+Disease	C4085248	OSTEOFIBROUS DYSPLASIA, SUSCEPTIBILITY TO	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C1336839	Type 1 Papillary Renal Cell Carcinoma	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C3553932	DEAFNESS, AUTOSOMAL RECESSIVE 98	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	WNT10A
+Disease	C1516474	Cellular Congenital Mesoblastic Nephroma	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	CD6
+Disease	C1709353	Osteofibrous Dysplasia	DisGeNET Curated	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C0581321	Vertebral osteoporosis	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	CD6
+Disease	cv:C1336839	Renal cell carcinoma, papillary, 1	Clinical Variations	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	MET
+Disease	C0265242	Otocephaly	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	PRRX1
+Disease	C1858302	Ectodermal dysplasia/ skin fragility syndrome	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	DSP
+Disease	C0585051	Acute sciatica	DisGeNET BeFree	3.133E-3	1.000E0	3.103E-2	2.413E-1	1	2	GAL
+Disease	C0020608	Hypodontia	DisGeNET BeFree	3.330E-3	1.000E0	3.274E-2	2.546E-1	2	55	WNT10A,DSP
+Disease	C4524268	Advanced lung cancer	DisGeNET BeFree	3.450E-3	1.000E0	3.367E-2	2.618E-1	2	56	MET,PRRX1
+Disease	C2939461	Myeloid neoplasm	DisGeNET BeFree	4.212E-3	1.000E0	4.025E-2	3.130E-1	2	62	MET,CD6
+Disease	C2363973	Chronic thromboembolic pulmonary hypertension	DisGeNET BeFree	4.620E-3	1.000E0	4.025E-2	3.130E-1	2	65	CD6,MGP
+Disease	C4707237	Striate palmoplantar keratoderma	DisGeNET Curated	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C1855607	Keutel syndrome	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	MGP
+Disease	C1266124	tumor miofibrobl??stico peribronquial cong??nito	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	CD6
+Disease	C1876185	Dysgnathia complex	DisGeNET Curated	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	PRRX1
+Disease	C1456332	Stimulant abuse	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	CDH13
+Disease	C3809719	Severe dermatitis, multiple allergies, metabolic wasting syndrome	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C4021800	Abnormality of dental enamel	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C0344893	Right ventricular dilatation	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C2745953	Spondylometaphyseal dysplasia with dentinogenesis imperfecta	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	GAL
+Disease	C1510504	Fetal malnutrition without mention of light-for-dates	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	GAL
+Disease	C3495530	Congenital alopecia X-linked	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C0265992	alopecia congenita	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C1832600	Naxos disease	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	DSP
+Disease	C0406702	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	DisGeNET Curated	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	WNT10A
+Disease	C0035353	Congenital retrognathism	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	PRRX1
+Disease	C0700200	Presyncope	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	GAL
+Disease	C1861923	Acampomelic Campomelic Dysplasia	DisGeNET BeFree	4.696E-3	1.000E0	4.025E-2	3.130E-1	1	3	CD6
+Disease	C3888194	MIXED LINEAGE LEUKEMIA	DisGeNET BeFree	5.006E-3	1.000E0	4.263E-2	3.315E-1	3	224	MET,GAL,ASB2
+Disease	C0010346	Crohn Disease	DisGeNET BeFree	5.111E-3	1.000E0	4.325E-2	3.363E-1	6	1063	CD6,LXN,MGP,DSP,GPR68,CDH13
+Disease	C0018552	Hamartoma	DisGeNET BeFree	5.488E-3	1.000E0	4.614E-2	3.588E-1	2	71	PRRX1,CD6
+Disease	C0023860	Listeriosis	DisGeNET BeFree	5.639E-3	1.000E0	4.705E-2	3.658E-1	2	72	MET,LXN
+Disease	C0349788	Arrhythmogenic Right Ventricular Dysplasia	DisGeNET BeFree	5.792E-3	1.000E0	4.705E-2	3.658E-1	2	73	MET,DSP
+Disease	C0014859	Esophageal Neoplasms	DisGeNET Curated	5.948E-3	1.000E0	4.705E-2	3.658E-1	2	74	MET,CDH13
+Disease	C0546837	Malignant neoplasm of esophagus	DisGeNET Curated	5.948E-3	1.000E0	4.705E-2	3.658E-1	2	74	MET,CDH13
+Disease	C1443296	Axial myopia	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	MET
+Disease	C0158850	Fetal Malnutrition	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	GAL
+Disease	C0334509	Clear cell sarcoma, of tendons and aponeuroses	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	CD6
+Disease	C0034880	Hyperacusis	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	CNTN6
+Disease	C0795816	Chromosome 6, monosomy 6q	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	CD6
+Disease	C0279737	low-grade salivary gland carcinoma	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	CD6
+Disease	C0037019	Shy-Drager Syndrome	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	HRH3
+Disease	C1848873	Abnormality of the diaphragm	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	NR2F2
+Disease	C0151295	Mononeuritis Multiplex	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	DSP
+Disease	C1852093	Maturity-Onset Diabetes of the Young, Type 1	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	NR2F2
+Disease	C3494422	Retrognathia	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	PRRX1
+Disease	C0344735	Partial atrioventricular canal	DisGeNET Curated	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	NR2F2
+Disease	C0334013	Phrynoderma	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	DSP
+Disease	C1855284	Intrahepatic biliary atresia	DisGeNET BeFree	6.257E-3	1.000E0	4.705E-2	3.658E-1	1	4	ONECUT1
+Disease	C0020757	Ichthyoses	DisGeNET BeFree	6.264E-3	1.000E0	4.705E-2	3.658E-1	2	76	GAL,DSP
+Disease	C0334037	Intestinal metaplasia	DisGeNET BeFree	6.490E-3	1.000E0	4.848E-2	3.770E-1	3	246	MET,GAL,NR2F2
