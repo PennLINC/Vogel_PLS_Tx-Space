@@ -5,6 +5,26 @@ Included are several Jupyter notebooks running through each of the analyses in t
 
 The Notebooks are divided thematically, such that each corresponds to a certain set of analyses. Due to the size of some of the files, you will need to run some of these notebooks (particularly NB1, NB2 and NB3) in order to generate the data used in later notebooks. I tried to demarcate areas where a previous notebook must be run in order to complete an analysis. In addition, some data will needed to be downloaded from the public repositories on the internet. Instructions and links are included in the notebook. For best results, you should place all downloaded data into the `data/` folder of this repository.
 
+The following lists which notebooks are needed to reproduce analyses displayed in each manuscript figure:
+
+NB01 --> None (data generation)
+
+NB02 --> Fig 1B,E,F,G,H; Fig S1A,C,D,F; Fig S2
+
+NB03 --> Fig 1C,D; Fig S1E; Fig S3 (except panel E), Table S1, Table S7
+
+NB04 --> Fig 2; Fig S3E; Fig S4; Fig S5
+
+NB05 --> Fig 1K, Table S2
+
+NB06 --> Fig 1J; Fig 3C,D; Fig S7
+
+NB07 --> Fig 3C,D; Fig S7; Fig S8
+
+NB08 --> Fig 1L; Fig 3A,B; Fig S6
+
+NB09 --> Fig 4, Table S3, Table S4, Table S5, Table S6
+
 # Requirements
 Running these notebooks will require Python 3.7.3 or above, Jupyter, and a number of Python packages. A `requirements.txt` file containing all of the necessary elements is included in the git repo. 
 
