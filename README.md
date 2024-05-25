@@ -1,5 +1,5 @@
 # Vogel_PLS_Tx-Space
-Data and code for [Vogel et al., Transcriptomic Gradients paper](https://biorxiv.org/cgi/content/short/2022.09.18.508425v1). See [project page](https://pennlinc.github.io/Vogel_PLS_Tx-Space/) for additional information.
+Data and code for [Vogel et al., Transcriptomic Gradients paper](https://biorxiv.org/cgi/content/short/2022.09.18.508425v1), now accepted at *PNAS*. See [project page](https://pennlinc.github.io/Vogel_PLS_Tx-Space/) for additional information.
 
 Included are several Jupyter notebooks running through each of the analyses in the paper, showing the exact code and data used to prepare and run each analysis and sub-analysis, and generate the figures from the manuscript.
 
@@ -9,21 +9,23 @@ The following lists which notebooks are needed to reproduce analyses displayed i
 
 NB01 --> None (data generation)
 
-NB02 --> Fig 1B,E,F,G,H; Fig S1A,C,D,F; Fig S2
+NB02 --> Fig 1B,E,F,G,H; Fig S1A,C,D,F; Fig S3
 
-NB03 --> Fig 1C,D; Fig S1E; Fig S3 (except panel E), Table S1, Table S7
+NB03 --> Fig 1C,D; Fig S1E; Fig S4 (except panel E), Table S1, Table S7
 
-NB04 --> Fig 2; Fig S3E; Fig S4; Fig S5
+NB04 --> Most of Fig 2; Fig S4E; Fig S6; Fig S6; Fig S8
+
+NB04a --> The rest of Fig 2
 
 NB05 --> Fig 1K, Table S2
 
-NB06 --> Fig 1J; Fig 3C,D; Fig S7
+NB06 --> Fig 1J; Fig 4; Fig S11
 
-NB07 --> Fig 3C,D; Fig S7; Fig S8
+NB07 --> Fig 4C; Fig S11A; Fig S12
 
-NB08 --> Fig 1L; Fig 3A,B; Fig S6
+NB08 --> Fig 1L; Fig 3; Fig S9
 
-NB09 --> Fig 4, Table S3, Table S4, Table S5, Table S6
+NB09 --> Fig 5, Fig S13, Table S3, Table S4, Table S5, Table S6
 
 # Requirements
 Running these notebooks will require Python 3.7.3 or above, Jupyter, and a number of Python packages. A `requirements.txt` file containing all of the necessary elements is included in the git repo. 
