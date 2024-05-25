@@ -43,7 +43,7 @@ October 2018
 
 **Current Project Status**
 
-Preprint published; manuscript submitted
+Manuscript accepted at *PNAS*
 
 
 **Dataset**
@@ -89,7 +89,9 @@ OHBM 2020 presentation --> https://www.humanbrainmapping.org/files/2020/ORAL_SES
 
 OHBM 2022 presentation --> https://www.humanbrainmapping.org/files/2022/Oral%20Sessions/Imaging_Genetics_Mapping_the_Effects_of_Genetic_and_Transcriptional_Variation_on_the_Brain.pdf
 
-Preprint --> Coming soon...
+Preprint --> https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1
+
+Published manuscript --> Waiting for DOI...
 
 
 **Code documentation**
